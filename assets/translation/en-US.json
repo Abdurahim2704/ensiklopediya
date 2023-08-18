@@ -1,0 +1,15 @@
+{
+  "Wolf": "Wolf",
+  "Lion": "Lion",
+  "Deer": "Deer",
+  "Elephant": "Elephant",
+  "Bear": "Bear",
+  "Black Panther": "Black Panther",
+  "Penguen": "Penguen",
+  "Lifetime": "Lifetime",
+  "Description": "Description",
+  "wolf_desc": "Wolves are magnificent creatures that live in packs and are known for their strong family bonds. These intelligent animals have thick fur coats that help them stay warm in cold environments. Wolves have a keen sense of smell, excellent hearing, and sharp teeth for hunting. They're famous for their haunting howls that can be heard from miles away.\nWolves are expert hunters and work together as a team to catch their prey. They often hunt animals like deer, elk, and moose. With a strong sense of cooperation, they communicate through body language, growls, and howls. Their social structure is like a big family, led by an alpha pair – the strongest and most dominant male and female.",
+  "lion_desc": "Lions are magnificent big cats that rule over the African savanna with their regal presence. With their golden fur and impressive manes (for males), they are among the most recognizable animals on Earth. Lions are known for their strength, power, and social nature.\nLions live in groups called prides, which usually consist of multiple females, their young cubs, and a few dominant males. These prides work together to protect their territory and hunt for food. The lionesses are expert hunters, using their sharp claws and strong jaws to catch animals like zebras, wildebeests, and antelopes.",
+  "elephant_desc": "Elephants are incredible animals that stand out for their enormous size and gentle nature. They are the largest land animals on Earth and are known for their long trunks, large ears, and strong tusks. Elephants are highly intelligent and have a complex social structure.\nAn elephant's trunk is a versatile tool that they use for a variety of tasks. They can use it to pick up food, drink water, greet other elephants, and even communicate by making trumpet-like sounds. Their large ears help them stay cool by acting as fans on hot days.",
+  "deer_desc": "Deer are elegant and gentle animals that roam forests, grasslands, and even mountains. They are known for their slender bodies, long legs, and distinctive antlers (in males). Deer come in various sizes and colors, adapting to their environments.\nDeer are herbivores, which means they eat plants. They graze on grass, leaves, twigs, and sometimes even fruits and nuts. Because they are always on the lookout for food, deer are often seen in the early morning or evening, when they're most active."
+}

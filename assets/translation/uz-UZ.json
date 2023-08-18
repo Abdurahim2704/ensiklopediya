@@ -1,0 +1,15 @@
+{
+  "Wolf": "Bo'ri",
+  "Lion": "Sher",
+  "Deer":  "Kiyik",
+  "Elephant": "Fil",
+  "Bear":  "Ayiq",
+  "Black": "Qora",
+  "Penguen":  "Penguen",
+  "Lifetime": "Yashash vaqti",
+  "Description": "Ma'lumotlar",
+  "wolf_desc": "Bo'rilar to'da bo'lib yashaydigan va mustahkam oilaviy rishtalari bilan mashhur bo'lgan ajoyib mavjudotlardir. Bu aqlli hayvonlar sovuq muhitda issiq bo'lishga yordam beradigan qalin mo'ynali kiyimlarga ega. Bo'rilar o'tkir hid hissi, ajoyib eshitish va ov uchun o'tkir tishlarga ega. Ular milya uzoqdan eshitiladigan hayajonli hayqiriqlari bilan mashhur.\nBo'rilar tajribali ovchilar bo'lib, o'ljasini qo'lga olish uchun bir jamoa bo'lib ishlaydi. Ular ko'pincha bug'u, bo'yni va ilg'oq kabi hayvonlarni ovlashadi. Kuchli hamkorlik tuyg'usi bilan ular tana tili, o'spirin va yig'lash orqali muloqot qilishadi. Ularning ijtimoiy tuzilishi katta oilaga o'xshaydi, uni alfa juftligi - eng kuchli va eng ustun erkak va ayol boshqaradi.",
+  "lion_desc": "Arslonlar ajoyib katta mushuklar bo'lib, ular o'zlarining shohona mavjudligi bilan Afrika savannasini boshqaradilar. Oltin mo'ynasi va ta'sirchan yeleli (erkaklar uchun) ular Yerdagi eng taniqli hayvonlardan biridir. Arslonlar o'zlarining kuchi, kuchi va ijtimoiy tabiati bilan mashhur.\nArslonlar mag'rurlik deb ataladigan guruhlarda yashaydilar, ular odatda bir nechta urg'ochilar, ularning yosh bolalari va bir nechta dominant erkaklardan iborat. Bu mag'rurlik o'z hududlarini himoya qilish va oziq-ovqat uchun ov qilish uchun birgalikda ishlaydi. Arslonlar zebralar, yovvoyi hayvonlar va antilopalar kabi hayvonlarni ovlash uchun o'tkir tirnoqlari va kuchli jag'laridan foydalanadigan tajribali ovchilardir.",
+  "elephant_desc": "Fillar o'zlarining ulkan o'lchamlari va yumshoq tabiati bilan ajralib turadigan ajoyib hayvonlardir. Ular er yuzidagi eng yirik quruqlik hayvonlari bo'lib, uzun tanasi, katta quloqlari va kuchli tishlari bilan mashhur. Fillar juda aqlli va murakkab ijtimoiy tuzilishga ega.\nFilning tanasi ko'p qirrali vosita bo'lib, ular turli vazifalarni bajarish uchun foydalanadilar. Ular undan oziq-ovqat olish, suv ichish, boshqa fillar bilan salomlashish va hatto karnay kabi tovushlarni chiqarish orqali muloqot qilish uchun foydalanishlari mumkin. Ularning katta quloqlari issiq kunlarda fanat sifatida harakat qilib, salqin bo'lishga yordam beradi.",
+  "deer_desc":"Kiyiklar o'rmonlarda, o'tloqlarda va hatto tog'larda yuradigan nafis va yumshoq hayvonlardir. Ular nozik tanalari, uzun oyoqlari va o'ziga xos shoxlari (erkaklarda) bilan mashhur. Kiyiklar atrof-muhitga moslashib, turli o'lcham va ranglarda bo'ladi.\nKiyiklar o'txo'r hayvonlardir, ya'ni ular o'simliklarni iste'mol qiladilar. Ular o‘t, barglar, shoxlar, ba’zan meva va yong‘oqlarda ham o‘tlaydi. Ular doimo oziq-ovqat izlab yurganlari uchun kiyiklar ko‘pincha erta tongda yoki kechqurun, ya’ni eng faol paytlarida ko‘rishadi."
+}
